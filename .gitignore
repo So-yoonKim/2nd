@@ -1,0 +1,11 @@
+# 비밀값: 절대 GitHub 에 올리지 않는다
+.env
+.env.*
+!.env.example
+
+# Vercel / Node
+.vercel
+node_modules
+
+# 1단계 CSV 원본 (2단계는 API 에서 데이터를 받으므로 배포에 필요 없음)
+*.csv

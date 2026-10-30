@@ -1,0 +1,11 @@
+{
+  "name": "jeju-concept-trip",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node dev.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
